@@ -32,7 +32,7 @@ namespace MapApp.Droid
         }
         protected override void OnElementChanged(Xamarin.Forms.Platform.Android.ElementChangedEventArgs<Map> e)
         {
-           // base.OnElementChanged(e);
+            base.OnElementChanged(e);
 
             if (e.OldElement != null)
             {
@@ -43,7 +43,7 @@ namespace MapApp.Droid
             {
                 var formsMap = (CustomMap)e.NewElement;
                 customPins = formsMap.CustomPins;
-                //Control.GetMapAsync(this);
+                Control.GetMapAsync(this);
             }
         }
 

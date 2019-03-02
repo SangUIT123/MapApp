@@ -88,6 +88,7 @@
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
@@ -102,6 +103,7 @@
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -225,10 +227,11 @@
       ]
     },
     "Xam.Plugin.Geolocator/4.5.0.6": {
-      "sha512": "rbWNjW7o14EtZa+yjPLujQg+PLVF6M490ooNx9QK/Z6El+uRA2EFut+lT/OAetWFzdPcv9LCs0YGOTvs9e7taQ==",
+      "sha512": "Ro7peBDxsDXPc7J7yLx0ekAcXIfVTAXj/rXiBKiTgZ4Lm7KZJIU8PXOCcI4JztzT3MQrL8Rmka48il/ix0pwoA==",
       "type": "package",
       "path": "xam.plugin.geolocator/4.5.0.6",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/monoandroid71/Plugin.Geolocator.dll",
         "lib/monoandroid71/Plugin.Geolocator.xml",
@@ -251,10 +254,11 @@
       ]
     },
     "Xam.Plugins.Settings/3.1.1": {
-      "sha512": "Bu7xx61R2xnH+vY0LyFWiDNfuS25OWR3n9Yu3Gdutpgy7T7F/c1JieptS6YxRzz4WXJzaj0ACz/zQ0OwDiyIvw==",
+      "sha512": "EQEYQJ64ZLqui5GWkLMavgqitHxwUHZHryTzUD1021UBuz1XwDSjPL45W0K4pPXjz9oKbg7YpRXKPR1luPr/5Q==",
       "type": "package",
       "path": "xam.plugins.settings/3.1.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "content/MonoAndroid10/Helpers/Settings.cs.pp",
         "content/UAP10/Helpers/Settings.cs.pp",
@@ -320,10 +324,11 @@
       ]
     },
     "Xamarin.Forms/3.5.0.169047": {
-      "sha512": "ybupzRr8C93lEDyeCI4am3XTervm+4nhBVdb8StYS/ZRLQdvjrGyKkAonz/TGbz7Sjln05KDWwQts4moE9HUgg==",
+      "sha512": "bDUiWsvlU949lyf8gw5ROVQ0kRr1dB8daiWATYCXuOXv/iODsbq/8NmNVxhV2WbOo8b8wJMe7SqZG4V/CQlYuQ==",
       "type": "package",
       "path": "xamarin.forms/3.5.0.169047",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/Xamarin.Forms.DefaultItems.props",
         "build/Xamarin.Forms.DefaultItems.targets",
@@ -483,10 +488,11 @@
       ]
     },
     "Xamarin.Forms.Maps/3.5.0.169047": {
-      "sha512": "XqY2TObxDU9z/+1HVLM7VcM9irpOg9hf0PqY5RZovbjduxOcMB6ymmmtYJVvSZ5VyvYcUV7zujXuACr5udJhSA==",
+      "sha512": "U0KXosPG7KVdJv5TtRhYIg+IMcknqWgV4zP9PCvo2YhfoBeY45P480K1eP1aLyZ5eYKLLWuF7OZ/xzGztk2N4g==",
       "type": "package",
       "path": "xamarin.forms.maps/3.5.0.169047",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid81/Xamarin.Forms.Maps.Android.dll",
         "lib/MonoAndroid81/Xamarin.Forms.Maps.dll",
@@ -527,23 +533,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Phan Minh Sang\\.nuget\\packages\\": {},
+    "C:\\Users\\nvthi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phan Minh Sang\\source\\repos\\ST_MapApp\\ST_MapApp\\ST_MapApp\\ST_MapApp.csproj",
+      "projectUniqueName": "D:\\Thesis\\New folder\\MapApp\\ST_MapApp\\ST_MapApp\\ST_MapApp\\ST_MapApp.csproj",
       "projectName": "ST_MapApp",
-      "projectPath": "C:\\Users\\Phan Minh Sang\\source\\repos\\ST_MapApp\\ST_MapApp\\ST_MapApp\\ST_MapApp.csproj",
-      "packagesPath": "C:\\Users\\Phan Minh Sang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phan Minh Sang\\source\\repos\\ST_MapApp\\ST_MapApp\\ST_MapApp\\obj\\",
+      "projectPath": "D:\\Thesis\\New folder\\MapApp\\ST_MapApp\\ST_MapApp\\ST_MapApp\\ST_MapApp.csproj",
+      "packagesPath": "C:\\Users\\nvthi\\.nuget\\packages\\",
+      "outputPath": "D:\\Thesis\\New folder\\MapApp\\ST_MapApp\\ST_MapApp\\ST_MapApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Phan Minh Sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nvthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

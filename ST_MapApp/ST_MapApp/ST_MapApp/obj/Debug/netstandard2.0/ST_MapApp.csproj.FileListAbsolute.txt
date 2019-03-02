@@ -1,10 +1,11 @@
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.csproj.CoreCompileInputs.cache
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.AssemblyInfoInputs.cache
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.AssemblyInfo.cs
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\bin\Debug\netstandard2.0\ST_MapApp.deps.json
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\bin\Debug\netstandard2.0\ST_MapApp.dll
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\bin\Debug\netstandard2.0\ST_MapApp.pdb
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.dll
-C:\Users\Phan Minh Sang\source\repos\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.pdb
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\bin\Debug\netstandard2.0\ST_MapApp.deps.json
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\bin\Debug\netstandard2.0\ST_MapApp.dll
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\bin\Debug\netstandard2.0\ST_MapApp.pdb
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.csprojAssemblyReference.cache
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.csproj.CoreCompileInputs.cache
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.AssemblyInfoInputs.cache
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.AssemblyInfo.cs
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.dll
+D:\Thesis\New folder\MapApp\ST_MapApp\ST_MapApp\ST_MapApp\obj\Debug\netstandard2.0\ST_MapApp.pdb
