@@ -1,4 +1,5 @@
-﻿using MapApp;
+﻿
+using ST_MapApp.Views;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -15,8 +16,7 @@ namespace ST_MapApp
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MapPage());
-
+            MainPage = new NavigationPage(new MapView());
         }
 
         protected override void OnStart()
